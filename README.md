@@ -30,7 +30,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: Whenever I get some free time, I solve problems on Leetcode, HackerRank and read Tech Articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge]([https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white])](https://www.linkedin.com/in/arpan-ghosh-80263a216/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/arpan-ghosh-80263a216/)
 <hr>
 
 ### :hammer_and_wrench: Languages and Tools :
