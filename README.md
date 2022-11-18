@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div id="badges">
-  <a href="https://www.linkedin.com/in/bablu-kumar-63a111245"/>
+  <a href="https://www.linkedin.com/in/arpan-ghosh-80263a216/"/>
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.youtube.com/">
@@ -13,7 +13,7 @@
 </div>
 <img src="https://komarev.com/ghpvc/?username=Arpan-Ghosh-248&style=flat-square&color=blue" alt=""/>
 <h1>
-  Hey there !!!
+  Hello Everybody !!!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
@@ -24,13 +24,13 @@
 
 ### :man_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I'm working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I'm working as a Software Engineer and contributing to both Frontend and Backend for building Web Applications.
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks, HackerRank and read tech articles.
+- :zap: Whenever I get some free time, I solve problems on Leetcode, HackerRank and read Tech Articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bablu-kumar-63a111245/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/arpan-ghosh-80263a216/)
 <hr>
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -53,7 +53,3 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Arpan-Ghosh-248&theme=nightowl)](https://git.io/streak-stats)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arpan-Ghosh-248&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
