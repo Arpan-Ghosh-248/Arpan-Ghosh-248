@@ -1,4 +1,4 @@
-# Hi there, I'm [Arpan Ghosh] 👋
+# Hi there, I'm Arpan Ghosh 👋
 
 ### Senior Full Stack Engineer | Architecting End-to-End Solutions since 2019
 
@@ -28,15 +28,15 @@ Across the years, I've cultivated a deep-rooted expertise in modern web technolo
 
 ### 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arpan-Ghosh-248&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arpan-Ghosh-248&layout=compact&theme=radical)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arpan-Ghosh-248&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arpan-Ghosh-248&layout=compact&theme=radical)
 
 ---
 
 ### 📫 Let's Connect!
 
-* **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/arpan-ghosh-80263a216/)
-* **Portfolio:** [yourportfolio.com](https://yourportfolio.com)
-* **Email:** [your.email@example.com](mailto:arpan.ghosh98@gmail.com)
+* **LinkedIn:** [linkedin.com/in/myprofile](https://linkedin.com/in/arpan-ghosh-80263a216/)
+* **Portfolio:** [myportfolio.com](https://yourportfolio.com)
+* **Email:** [my.email@example.com](mailto:arpan.ghosh98@gmail.com)
 
 "Code is read much more often than it is written." — *Guido van Rossum*
