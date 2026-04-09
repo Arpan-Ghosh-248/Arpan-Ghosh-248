@@ -1,55 +1,42 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <div id="badges">
-  <a href="https://www.linkedin.com/in/arpan-ghosh-80263a216/"/>
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.youtube.com/">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="https://twitter.com/">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
-<img src="https://komarev.com/ghpvc/?username=Arpan-Ghosh-248&style=flat-square&color=blue" alt=""/>
-<h1>
-  Hello Folks !!!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-</div>
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-<hr>
+# Hi there, I'm [Arpan Ghosh] 👋
 
-### :man_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I'm working as a Software Engineer and contributing to both Frontend and Backend for building Web Applications.
+### Senior Full Stack Engineer | Architecting End-to-End Solutions since 2019
 
-- :seedling: Exploring Technical Content Writing.
+I am a seasoned Software Engineer with over 6 years of experience building scalable, user-centric applications. Having navigated the entire **Software Development Life Cycle (SDLC)**, I bridge the gap between robust backend architecture and intuitive frontend experiences.
 
-- :zap: Whenever I get some free time, I solve problems on Leetcode, HackerRank and read Tech Articles.
+---
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/arpan-ghosh-80263a216/)
-<hr>
+### 💻 Technical Ecosystem
 
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
-<hr>
+Across the years, I've cultivated a deep-rooted expertise in modern web technologies and DevOps practices:
 
-### :fire: My Stats :
+* **Frontend:** React.js, Next.js, Vue.js, TypeScript, State Management (Redux/Context), Tailwind CSS.
+* **Backend:** Node.js (Express/NestJS), Python (Django/FastAPI), Java (Spring Boot).
+* **Database & Cache:** PostgreSQL, MongoDB, MySQL, Redis.
+* **DevOps & Cloud:** Docker, Kubernetes, AWS (EC2, S3, Lambda), CI/CD Pipelines (GitHub Actions/Jenkins).
+* **Testing & Quality:** Jest, Cypress, TDD, Clean Code (SOLID) principles.
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Arpan-Ghosh-248&theme=nightowl)](https://git.io/streak-stats)
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arpan-Ghosh-248&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+---
+
+### 🚀 Professional Philosophy
+
+* **SDLC Mastery:** I don't just write code; I own the process—from requirement gathering and system design to deployment and monitoring.
+* **Scalability First:** I build with the future in mind, ensuring systems are performant, maintainable, and secure.
+* **Continuous Learning:** The tech landscape has shifted significantly since 2019, and I’ve evolved alongside it, moving from monolithic architectures to microservices and serverless.
+
+---
+
+### 📊 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arpan-Ghosh-248&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arpan-Ghosh-248&layout=compact&theme=radical)
+
+---
+
+### 📫 Let's Connect!
+
+* **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/arpan-ghosh-80263a216/)
+* **Portfolio:** [yourportfolio.com](https://yourportfolio.com)
+* **Email:** [your.email@example.com](mailto:arpan.ghosh98@gmail.com)
+
+"Code is read much more often than it is written." — *Guido van Rossum*
