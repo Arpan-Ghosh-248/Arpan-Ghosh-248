@@ -29,7 +29,7 @@ Across the years, I've cultivated a deep-rooted expertise in modern web technolo
 ### 📫 Let's Connect!
 
 * **LinkedIn:** [linkedin.com/in/myprofile](https://linkedin.com/in/arpan-ghosh-80263a216/)
-* **Portfolio:** [myportfolio.com](https://myportfolio.com)
+* **Portfolio:** [myportfolio.com](https://portfolio-arpan-ghosh.vercel.app/)
 * **Email:** [my.email@example.com](mailto:arpan.ghosh98@gmail.com)
 
 "Code is read much more often than it is written." — *Guido van Rossum*
